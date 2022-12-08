@@ -10,8 +10,8 @@ Este projeto se iniciou para a candidatura de uma oportunidade como Dev. Não po
 
 ## 🛠️ Tecnologias utilizadas
 
-* [React JS](https://pt-br.reactjs.org/) - Biblioteca JavaScript para crir interfaces de usuário
-* [Redux](https://redux.js.org/) - Contêine de estado previsível para aplicação JS
+* [React JS](https://pt-br.reactjs.org/) - Biblioteca JavaScript para criar interfaces de usuário
+* [Redux](https://redux.js.org/) - Contêiner de estado previsível para aplicação JS
 * [Typescript](https://www.typescriptlang.org/) - Linguagem de programação tipada baseada em JS
 
 ## 📢 Lembrem-se
